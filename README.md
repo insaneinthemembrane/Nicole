@@ -128,3 +128,16 @@ The Nicole ICO
 One lucky person can buy 125,000 Nicole at the bargain price of 0.10 BTC, which also happens to be the cost of  Yobit's Premium  Addcoin
 
 -----
+
+
+
+
+
+Nicolexplorer
+--------------------
+
+
+[Nicolexplorer](http://explorer.nicole-lovely.info:3001)
+
+
+-----
