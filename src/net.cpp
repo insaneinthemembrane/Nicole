@@ -1239,6 +1239,7 @@ static const char *strDNSSeed[][2] = {
     {"83.93.111.63", "83.93.111.63"},
     {"188.166.200.98", "188.166.200.98"},
     {"178.62.254.91", "178.62.254.91"},
+    {"45.58.48.93", "45.58.48.93"},
     {"node1.nicole-lovely.info", "node1.nicole-lovely.info"},
     {"node2.nicole-lovely.info", "node2.nicole-lovely.info"},
     {"node3.nicole-lovely.info", "node3.nicole-lovely.info"},
@@ -1247,6 +1248,7 @@ static const char *strDNSSeed[][2] = {
     {"node6.nicole-lovely.info", "node6.nicole-lovely.info"},
     {"node7.nicole-lovely.info", "node7.nicole-lovely.info"},
     {"node8.nicole-lovely.info", "node8.nicole-lovely.info"},
+    {"node9.nicole-lovely.info", "node9.nicole-lovely.info"},
     {"explorer.nicole-lovely.info", "explorer.nicole-lovely.info"},
 };
 
